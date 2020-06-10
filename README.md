@@ -1,6 +1,6 @@
 # jokes
 
-> My wicked Nuxt.js project
+> My first NuxtJS Project
 
 ## Build Setup
 
